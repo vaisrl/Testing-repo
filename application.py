@@ -1,4 +1,4 @@
-"Some string") 123
+123
 print("Some string")
 
 print("Bug fixed")
